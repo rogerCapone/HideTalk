@@ -1,0 +1,275 @@
+  
+{
+    "language": "Español",
+    "helloWorld": "Hola Mundo!",
+    "splashText1": "\nDefine tu círculo. Añade a favoritos, oculta, habla con quién quieras cuando quieras y sin que nadie se entere.",
+    "splashText2": "\nComprendemos la importancia de tu privacidad.\n\nSe el único propietari@ de tus datos.",
+    "splashText3": "Encriptación punto a punto y mensajes desechables -READ & DELETE-.\n\nRealiza el pago anónimo y listo 😉👨🏻‍💻",
+    "swipe" : "Desliza para leer más",
+    "start": "Empezar",
+    "createAccount": " Crear Cuenta ",
+    "createAccountSubInfo": "Rellena los campos o \naccede con Google",
+    "register": "Registrarse",
+    "confirmPassword": "Confirmar Contraseña",
+    "rewritePassword":  "Reescribe tu Constraseña",
+    "password": "Contraseña",
+    "writePassword": "Escribe tu Contraseña",
+    "passwordHelper": "La contraseña debe contener almenos 6 caracteres",
+    "mail": "Correo",
+    "writeMail": "Escribe tu Correo",
+    "haveAnAccount": "¿Ya tienes cuenta? ",
+    "enter": "Entra",
+    "startAccept": "Si se registra accepta los siguientes",
+    "termsAndCo": "Términos, Condiciones",
+    "and": " y ",
+    "privacyPolicy": "Política de Privacidad",
+    "dontHaveAccount": "No tienes cuenta? ",
+    "sureExit": "¿Estas seguro que quieres salir?",
+    "no": "No",
+    "yes": "Si",
+    "welcome": "🖖🏻  Bienvenido de Nuevo  🖖🏾",
+    "loginMailOrGoogle": "Inicia sesión con correo y contraseña o accede con la cuenta Google",
+    "initSession": "Iniciar Sesión",
+    "weRememberAccount": "Se recordará la cuenta",
+    "forgotPassword": "Olvidé mi contraseña ",
+    "forgotProcedure": "Por favor introduzca su Correo y le enviaremos un enlace para recuperar su cuenta\n",
+    "understand": "Entiendo",
+    "visitMail": "Visita tu Correo",
+    "findResetPassword": "allaras un mensaje para reestablecer la constraseña.",
+    "resetPassword": "Reestablecer Contraseña",
+    "whatName": "¿Como quieres llamarte?",
+    "whatNameInfo": "Este es el nombre que veran los usuarios, si un emoji te define, usalo",
+    "genderQuestion": "Selecciona tu género o no 🤘🏻😏",
+    "userName": "Nombre de Usuario",
+    "yourUserName": "Escribe tu Nombre Hide",
+    "userNameTip": "Este nombre puede ser modificado después",
+    "imgContact": "Imagen de Contacto",
+    "getLucky": "Clique la imagen para cambiarla desde la galería,quedate con esta o prueba suerte 🍀",
+    "continuee": "Continuar",
+    "waitUntilLoading": "Espera a que se cargue",
+    "myPin": "Mi PIN ",
+    "createPin": "Crea tu PIN",
+    "fourDigits": "4 Dígitos ",
+    "repeatPin": "Repite tu PIN ",
+    "pinMissMatch": "El PIN no coincide 😅",
+    "selectCrypto": "Selecciona tu plan",
+    "rememberComissions": "Recuerda incluir las comisiones (fee) para que recibamos la cantidad correspondiente",
+    "haveHideHash": "Tengo un Hide Hash ",
+    "paymentAgreement": "Una vez recibido el pago, te convertirás en HIDDEN",
+    "subscription": "Planes Hide",
+    "monthly": "6 Meses",
+    "anual": "1 Año",
+    "subSelected": "Has seleccionado la subscripción:",
+    "transferToWallet": "Debes transferir a la siguiente Wallet:",
+    "walletCopied": "La wallet se ha copiado al portapapeles",
+    "sended": "Enviado",
+    "transactionReminder": "Las transacciones suelen tardar entre 5-10 minutos 👨🏻‍💻",
+    "transactionDone": "¿Has realizado la transacción?",
+    "checkPayment": "Comprobar Pago",
+    "checkingPayment": "Comprobando el Estado del Pago",
+    "paymentFail": "Compruebe que se han Transferido los Fondos",
+    "privateQr": "QR Privado",
+    "copyContact": "Pega tu contacto encriptado 👨🏻‍💻",
+    "myAccount": "Mi Cuenta",
+    "notifications": "Notificaciones",
+    "hideTalk": "HideTalk",
+    "logOut": "Cerrar Sesión",
+    "sureLogout": "Deberas volver a iniciar sesión",
+    "closeSession": "¿Quieres Cerrar Sesión?",
+    "myInfo": "Mi Información",
+    "myContact": "Mi Contacto",
+    "myQr": "Mi QR",
+    "myHashes": "Mis Hashes",
+    "deleteAccount": "Eliminar Cuenta",
+    "allCollectedData": "Esta es toda la información que tenemos sobre ti\n",
+    "sex": "Sexo:  ",
+    "doesNotMatter": "No nos importa :)",
+    "lastConnection": "Última conexión:  ",
+    "accountCreated": "Cuenta creada:  ",
+    "sendedMessages": "Mensajes Enviados:",
+    "recivedMessages": "Mensajes Recibidos:",
+    "scannedQrs": "QRs Escaneados:",
+    "nContacts": "Nº Contactos:",
+    "hideContacts": "Nº Contactos Ocultos:",
+    "changeUserName": "Cambiar mi Nombre",
+    "changePin": "Cambiar mi PIN",
+    "oldPin": "Antiguo PIN",
+    "recoverControl": "RecuperaElControl",
+    "myHides": "MisHides",
+    "secretContacts": "Contactos Secretos",
+    "noSecretContacts": "No tienes\nContactos Ocultos",
+    "copyRight": "Copyright © {year} HideTalk \nTodos los derechos reservados.",
+    "twoMonthHash": "🍫 x 21 Días",
+    "oneMonthHash": "🍫 x 3 Días",
+    "giftOneMonth": "Regala 🍫 x 3 Días",
+    "giftTwoMonth": "Regala 🍫 x 21 Días",
+    "stillHave": "Aún te quedan: ",
+    "withHashCode": "Código Hash",
+    "sendInviteHash": "Copiado: Envía tu Hide Hash de invitación 🍫🤙🏻",
+    "faceToFace": "Cara Cara",
+    "forTwoMonth": " x 21 Días",
+    "forOneMonth": " x 3 Días",
+    "gift": "Regalo ",
+    "howToShareIt": "¿Como quieres compartirlo?",
+    "hasHash": "Ahora ya tiene un Hide Hash 🍫🤙🏻",
+    "showQRinPaymentPage": "Muestra este QR cuando tu contacto este en la pagina de pago",
+    "inviteIncludes": "Tu regalo incluye:",
+    "share": "Comparte",
+    "changeContactName": "Cambiar Nombre Contacto",
+    "notYourContact": " no es tu contacto, escanea su QR",
+    "newContactName": " Nuevo Nombre Contacto",
+    "selectPaymentMethod": "Seleccione el Método de Pago",
+    "myHidesFirstMessage": "Aqui puedes escribir tus HIDES (notas)\nEstas notas se encriptan y sólo son visibles para ti\nClick largo: Eliminalo definitivamente",
+    "verifyEmailSent": "Se ha enviado un correo de verificación a:",
+    "visitMailForVerification": "Visita tu correo, verificalo y vuelve a acceder a la aplicación",
+    "dontCloseAppSecondLayer": "No cierres la aplicación mantenla en segundo plano",
+    "includes": "Incluye:",
+    "ofTwentyOneDays": "de 21 Días:",
+    "ofThreeDays": "de 3 Días:",
+    "choosePlan": "Seleccione el plan que quiere adquirir",
+    "changeLanguage": "Cambiar Idioma",
+    "oldEnough": "¿Eres mayor de edad?",
+    "packMonth": "Pack 6 Meses",
+    "packYear": "Pack Anual",
+    "notAHideHash": "Esto no es un Hide Hash 🍫",
+    "closeSession": "Me gustaría cerrar sesión",
+    "copiedClipboard": "Tu Hide ID se ha copiado al portapapeles",
+    "back": "Volver",
+    "accepted": "Aceptados:",
+    "myName": "Nombre:",
+    "newContact": "Tienes un nuevo contacto 😊",
+    "noMessages": "No tienes mensajes 🙈",
+    "sendOne": "Envia un Hide",
+    "modifyingContact": "Modificando Información del Contacto",
+    "lessThanMinute": "< 1 minuto",
+    "minutes": " minutos",
+    "moreThanHour": "> 1 hora",
+    "moreThanDay": "> 1 dia",
+    "decryptImage": "Desencriptando Imagen",
+    "iCantVerify": "No puedo verificar la Cuenta",
+    "areYouSure": "¿Estas seguro?",
+    "notDelete": "No Eliminar",
+    "delete": "Eliminar",
+    "sureToDelete": "Tu contacto desaparecerá de tu círculo 👨🏻‍💻",
+    "termsTitle": "Términos y Condiciones"
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

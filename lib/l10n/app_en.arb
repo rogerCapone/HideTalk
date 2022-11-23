@@ -1,0 +1,688 @@
+{
+    "language": "English",
+    "@language":{
+      "description": "The current Language"
+    },
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "A programmer greeting"
+    },
+    "splashText1": "\nDefine your circle. Add to favorites, hide them, talk to who you want, whenever you want and without anyone knowing it.",
+     "@splashText1": {
+      "description": "Splash Text 1st Page"
+    },
+    "splashText2": "\nWe understand the importance of your privacy.\n\n Be the owner of your data.",
+     "@splashText2": {
+      "description": "Splash Text 2nd Page"
+    },
+    "splashText3": "End-to-end encryption and disposable messages -READ & DELETE -. \n\nMake an anonymous payment and you're done 😉👨🏻‍💻",
+     "@splashText3": {
+      "description": "Splash Text 3rd Page"
+    },
+    "swipe": "Swipe to read more",
+    "@swipe": {
+      "description": "Info swipe"
+    },
+    "start": "Start",
+    "@start": {
+      "description": "Button for starting App"
+    },
+    "createAccount": "Create an Account",
+    "@createAccount": {
+      "description": "Create an Account"
+    },
+    "createAccountSubInfo": "Fulfill the form or \naccess with Google",
+    "@createAccountSubInfo": {
+      "description": "Create an Account Info"
+    },
+    "register": "Register",
+    "@register": {
+      "description": "Register Button"
+    },
+    "confirmPassword": "Confirm Password",
+    "@confirmPassword": {
+      "description": "Confirm Password"
+    },
+    "rewritePassword": "Rewrite Password",
+    "@rewritePassword": {
+      "description": "Rewrite Password"
+    },
+    "password": "Password",
+    "@password": {
+      "description": "Password"
+    },
+    "writePassword": "Write Password",
+    "@writePassword": {
+      "description": "Write Password"
+    },
+    "passwordHelper": "Password should have 6 characters",
+    "@passwordHelper": {
+      "description": "Help pasword typing"
+    },
+    "mail": "Mail",
+    "@mail": {
+      "description": "Write Mail"
+    },
+    "writeMail": "Write your Mail",
+    "@writeMail": {
+      "description": "Write Mail"
+    },
+    "haveAnAccount": "Do you have an Account? ",
+    "@haveAnAccount": {
+      "description": "Question have account"
+    },
+    "enter": "Enter",
+    "@enter": {
+      "description": "Enter Button"
+    },
+    "startAccept": "If you register you are accepting the following",
+    "@startAccept": {
+      "description": "Start terms & co"
+    },
+    "termsAndCo": "Terms, Conditions",
+    "@termsAndCo": {
+      "description": "Terms and Co link text"
+    },
+    "and": " & ",
+    "@and": {
+      "description": "Terms and Co link text"
+    },
+    "privacyPolicy": "Privacy Policy",
+    "@privacyPolicy": {
+      "description": "Privacy Policy link text"
+    },
+    "dontHaveAccount": "Don't have an Account? ",
+    "@dontHaveAccount": {
+      "description": "Dont have an account text"
+    },
+    "sureExit": "Do you want to exit?",
+    "@sureExit": {
+      "description": "Will pop Up (exit)"
+    },
+    "no": "No",
+    "@no": {
+      "description": "No"
+    },
+    "yes": "Yes",
+    "@yes": {
+      "description": "Yes)"
+    },
+    "welcome": "🖖🏻  Welcome Again  🖖🏾",
+    "@welcome": {
+      "description": "Yes)"
+    },
+    "loginMailOrGoogle": "Login with Mail or login with your Google Account",
+    "@loginMailOrGoogle": {
+      "description": "Yes)"
+    },
+    "initSession": "Login",
+    "@initSession": {
+      "description": "Login Text"
+    },
+    "weRememberAccount": "Account will be remembered",
+    "@weRememberAccount": {
+      "description": "Account will be remembered"
+    },
+    "forgotPassword": "I forgot my password ",
+    "@forgotPassword": {
+      "description": "Forgot Password"
+    },
+    "forgotProcedure": "Please enter your email and we will send \nyou a link to return to your account\n",
+    "@forgotProcedure": {
+      "description": "Explanation of forgot Password procedure"
+    },
+    "understand": "I understand",
+    "@understand": {
+      "description": "Understand"
+    },
+    "visitMail": "Visit your Mail",
+    "@visitMail": {
+      "description": "Visit your Mail"
+    },
+    "findResetPassword": "You will find a reset Password Mail.",
+    "@findResetPassword": {
+      "description": "Visit your Mail"
+    },
+    "resetPassword": "Reset Password",
+    "@resetPassword": {
+      "description": "Visit your Mail"
+    },
+    "whatName": "Tell us a name",
+    "@whatName": {
+      "description": "Registering user name"
+    },
+    "whatNameInfo": "This is the name that other users will see. You can use emojis",
+    "@whatNameInfo": {
+      "description": "Choose name information"
+    },
+    "genderQuestion": "Select your Gender or not 🤘🏻😏",
+    "@genderQuestion": {
+      "description": "Asking for user gender"
+    },
+    "userName": "Hide Name",
+    "@userName": {
+      "description": "Choose User Name"
+    },
+    "yourUserName": "Write your Hide Name",
+    "@yourUserName": {
+      "description": "Choose User Name"
+    },
+    "userNameTip": "This name can be changed later, don't worry",
+    "@userNameTip": {
+      "description": "Choose User Name"
+    },
+    "imgContact": "Your Hide Image",
+    "@imgContact": {
+      "description": "Choose your image"
+    },
+    "getLucky": "Click the image to change it from the gallery, keep this one or try your luck 🍀",
+    "@getLucky": {
+      "description": "Choose your image"
+    },
+    "continuee": "Continue",
+    "@continuee": {
+      "description": "Choose your image"
+    },
+    "waitUntilLoading": "Wait until it's loaded",
+    "@waitUntilLoading": {
+      "description": "Choose your image"
+    },
+    "myPin": "My PIN ",
+    "@myPin": {
+      "description": "Choose your image"
+    },
+    "createPin": "Create your PIN",
+    "@createPin": {
+      "description": "Choose your image"
+    },
+    "fourDigits": "4 Digits ",
+    "@fourDigits": {
+      "description": "Choose your image"
+    },
+    "repeatPin": "Repeat your PIN ",
+    "@repeatPin": {
+      "description": "Choose your image"
+    },
+    "pinMissMatch": "PIN does not match 😅",
+    "@pinMissMatch": {
+      "description": "Choose your image"
+    },
+    "selectCrypto": "Select your plan",
+    "@selectCrypto": {
+      "description": "Choose your image"
+    },
+    "rememberComissions": "Remember to include the fees in order that we receive the corresponding amount",
+    "@rememberComissions": {
+      "description": "Choose your image"
+    },
+    "haveHideHash": "I have a Hide Hash ",
+    "@haveHideHash": {
+      "description": "Choose your image"
+    },
+    "paymentAgreement": "Once the payment has been received, you will become a HIDDEN",
+    "@paymentAgreement": {
+      "description": "Choose your image"
+    },
+    "subscription": "Hide Plans",
+    "@subscription": {
+      "description": "Choose your image"
+    },
+    "monthly": "6 Months",
+    "@monthly": {
+      "description": "Choose your image"
+    },
+    "anual": "1 Year",
+    "@anual": {
+      "description": "Choose your image"
+    },
+    "subSelected": "You've selected subscription:",
+    "@subSelected": {
+      "description": "Choose your image"
+    },
+    "transferToWallet": "You have to transfer to the following Wallet:",
+    "@transferToWallet": {
+      "description": "Choose your image"
+    },
+    "walletCopied": "The wallet has been copied to the clipboard",
+    "@walletCopied": {
+      "description": "Choose your image"
+    },
+    "sended": "Sended",
+    "@sended": {
+      "description": "Choose your image"
+    },
+    "transactionReminder": "Transactions usually take between 5-10 minutes 👨🏻‍💻",
+    "@transactionReminder": {
+      "description": "Choose your image"
+    },
+    "transactionDone": "Have you done the transaction?",
+    "@transactionDone": {
+      "description": "Choose your image"
+    },
+    "checkPayment": "Check Payment",
+    "@checkPayment": {
+      "description": "Choose your image"
+    },
+    "checkingPayment": "Checking Payment State",
+    "@checkingPayment": {
+      "description": "Choose your image"
+    },
+    "paymentFail": "Check that the Funds have been Transferred",
+    "@paymentFail": {
+      "description": "Choose your image"
+    },
+    "privateQr": "Private QR",
+    "@privateQr": {
+      "description": "Choose your image"
+    },
+    "copyContact": "Paste your encrypted contact 👨🏻‍💻",
+    "@copyContact": {
+      "description": "Choose your image"
+    },
+    "myAccount": "My Account",
+    "@myAccount": {
+      "description": "Choose your image"
+    },
+    "notifications": "Notifications",
+    "@notifications": {
+      "description": "Choose your image"
+    },
+    "hideTalk": "HideTalk",
+    "@hideTalk": {
+      "description": "Choose your image"
+    },
+    "logOut": "Logout",
+    "@logOut": {
+      "description": "Choose your image"
+    },
+    "sureLogout": "You must log in again",
+    "@sureLogout": {
+      "description": "Choose your image"
+    },
+    "closeSession": "Want to Close Session",
+    "@closeSession": {
+      "description": "Choose your image"
+    },
+    "myInfo": "My Information",
+    "@myInfo": {
+      "description": "Choose your image"
+    },
+    "myContact": "My Contact",
+    "@myContact": {
+      "description": "Choose your image"
+    },
+    "myQr": "My QR",
+    "@myQr": {
+      "description": "Choose your image"
+    },
+    "myHashes": "My Hashes",
+    "@myHashes": {
+      "description": "Choose your image"
+    },
+    "deleteAccount": "Delete Account",
+    "@deleteAccount": {
+      "description": "Choose your image"
+    },
+    "allCollectedData": "This is all the information we have about you\n",
+    "@allCollectedData": {
+      "description": "Choose your image"
+    },
+    "sex": "Sex:  ",
+    "@sex": {
+      "description": "Choose your image"
+    },
+    "doesNotMatter": "We don't care :)",
+    "@doesNotMatter": {
+      "description": "Choose your image"
+    },
+    "lastConnection": "Last connection:  ",
+    "@lastConnection": {
+      "description": "Choose your image"
+    },
+    "accountCreated": "Account created:  ",
+    "@accountCreated": {
+      "description": "Choose your image"
+    },
+    "sendedMessages": "Sended Messages:",
+    "@sendedMessages": {
+      "description": "Choose your image"
+    },
+    "recivedMessages": "Received Messages:",
+    "@recivedMessages": {
+      "description": "Choose your image"
+    },
+    "scannedQrs": "Scanned QRs:",
+    "@scannedQrs": {
+      "description": "Choose your image"
+    },
+    "nContacts": "Nº Contacts:",
+    "@nContacts": {
+      "description": "Choose your image"
+    },
+    "hideContacts": "Nº Hidden Contacts:",
+    "@hideContacts": {
+      "description": "Choose your image"
+    },
+    "changeUserName": "Change My Name",
+    "@changeUserName": {
+      "description": "Choose your image"
+    },
+    "changePin": "Change My PIN",
+    "@changePin": {
+      "description": "Choose your image"
+    },
+    "oldPin": "Old PIN",
+    "@oldPin": {
+      "description": "Choose your image"
+    },
+    "recoverControl": "RecoverControl",
+    "@recoverControl": {
+      "description": "Choose your image"
+    },
+    "myHides": "MyHides",
+    "@myHides": {
+      "description": "Choose your image"
+    },
+    "secretContacts": "Secret Contacts",
+    "@secretContacts": {
+      "description": "Choose your image"
+    },
+    "noSecretContacts": "No \nHidden Contacts",
+    "@noSecretContacts": {
+      "description": "Choose your image"
+    },
+    "copyRight": "Copyright © {year} HideTalk \nAll rights reserved.",
+    "@copyRight": {
+      "description": "Choose your image",
+      "placeholders": {
+        "year": {
+          "type":"String"
+        }
+      }
+    },
+    "twoMonthHash": "🍫 x 21 Days",
+    "@twoMonthHash": {
+      "description": "Choose your image"
+    },
+    "oneMonthHash": "🍫 x 3 Days",
+    "@oneMonthHash": {
+      "description": "Choose your image"
+    },
+    "giftOneMonth": "Gift 🍫 x 3 Days",
+    "@giftOneMonth": {
+      "description": "Choose your image"
+    },
+    "giftTwoMonth": "Gift 🍫 x 21 Days",
+    "@giftTwoMonth": {
+      "description": "Choose your image"
+    },
+    "stillHave": "Still having: ",
+    "@stillHave": {
+      "description": "Choose your image"
+    },
+    "withHashCode": "Hash Code",
+    "@withHashCode": {
+      "description": "Choose your image"
+    },
+    "sendInviteHash": "Copied: Send your Hide Hash invitation 🍫🤙🏻",
+    "@sendInviteHash": {
+      "description": "Choose your image"
+    },
+    "faceToFace": "Face2Face",
+    "@faceToFace": {
+      "description": "Choose your image"
+    },
+    "forTwoMonth": " x 21 Days",
+    "@forTwoMonth": {
+      "description": "Choose your image"
+    },
+    "forOneMonth": " x 3 Days",
+    "@forOneMonth": {
+      "description": "Choose your image"
+    },
+    "gift": "Gift ",
+    "@gift": {
+      "description": "Choose your image"
+    },
+    "howToShareIt": "How do you want to share it? ",
+    "@howToShareIt": {
+      "description": "Choose your image"
+    },
+    "hasHash": "Now you have a Hide Hash 🍫🤙🏻",
+    "@hasHash": {
+      "description": "Choose your image"
+    },
+    "showQRinPaymentPage": "Show this QR when your contact is in payment page",
+    "@showQRinPaymentPage": {
+      "description": "Choose your image"
+    },
+    "inviteIncludes": "Your gift includes:",
+    "@inviteIncludes": {
+      "description": "Choose your image"
+    },
+    "share": "Share",
+    "@share": {
+      "description": "Choose your image"
+    },
+    "changeContactName": "Change Contact Name",
+    "@changeContactName": {
+      "description": "Choose your image"
+    },
+    "notYourContact": " is not your Contact, scan the QR",
+    "@notYourContact": {
+      "description": "Choose your image"
+    },
+    "newContactName": "New Contact Name",
+    "@newContactName": {
+      "description": "Choose your image"
+    },
+    "selectPaymentMethod": "Select Payment Method",
+    "@selectPaymentMethod": {
+      "description": "Choose your image"
+    },
+    "myHidesFirstMessage": "Here you can write your HIDES (notes)\nThis notes are encrypted and are only visible for you\nLong Tap: Delete it forever",
+    "@myHidesFirstMessage": {
+      "description": "Choose your image"
+    },
+    "verifyEmailSent": "A verification email has been send to:",
+    "@verifyEmailSent": {
+      "description": "Choose your image"
+    },
+    "visitMailForVerification": "Visit your email, verify it and then come back to the App",
+    "@visitMailForVerification": {
+      "description": "Choose your image"
+    },
+    "dontCloseAppSecondLayer": "Note: Do not close the app, keep it in the background",
+    "@dontCloseAppSecondLayer": {
+      "description": "Choose your image"
+    },
+    "includes": "Includes:",
+    "@includes": {
+      "description": "Choose your image"
+    },
+    "ofTwentyOneDays": "of 21 Days:",
+    "@ofTwentyOneDays": {
+      "description": "Choose your image"
+    },
+    "ofThreeDays": "of 3 Days:",
+    "@ofThreeDays": {
+      "description": "Choose your image"
+    },
+    "choosePlan": "Select your desired plan",
+    "@choosePlan": {
+      "description": "Choose your image"
+    },
+    "changeLanguage": "Change Language",
+    "@changeLanguage": {
+      "description": "Choose your image"
+    },
+    "oldEnough": "Are you of legal age (in your country)?",
+    "@oldEnough": {
+      "description": "Choose your image"
+    },
+    "packMonth": "6 Month Pack",
+    "@packMonth": {
+      "description": "Choose your image"
+    },
+    "packYear": "Year Pack",
+    "@packYear": {
+      "description": "Choose your image"
+    },
+    "notAHideHash": "This is not a Hide Hash 🍫",
+    "@notAHideHash": {
+      "description": "Choose your image"
+    },
+    "closeSession": "I would like to Log Out",
+    "@closeSession": {
+      "description": "Choose your image"
+    },
+    "copiedClipboard": "Your Hide ID has been copied to Clipboard",
+    "@copiedClipboard": {
+      "description": "Choose your image"
+    },
+    "back": "Back",
+    "@back": {
+      "description": "Choose your image"
+    },
+    "accepted": "Accepted:",
+    "@accepted": {
+      "description": "Choose your image"
+    },
+    "myName": "Name:",
+    "@myName": {
+      "description": "Choose your image"
+    },
+    "newContact": "You have a new contact 😊",
+    "@newContact": {
+      "description": "Choose your image"
+    },
+    "noMessages": "You have no messages 🙈",
+    "@noMessages": {
+      "description": "Choose your image"
+    },
+    "sendOne": "Send a Hide",
+    "@sendOne": {
+      "description": "Choose your image"
+    },
+    "modifyingContact": "Modifying Contact Information",
+    "@modifyingContact": {
+      "description": "Choose your image"
+    },
+    "lessThanMinute": "< 1 minute",
+    "@lessThanMinute": {
+      "description": "Choose your image"
+    },
+    "minutes": " minutes",
+    "@minutes": {
+      "description": "Choose your image"
+    },
+    "moreThanHour": "> 1 hour",
+    "@moreThanHour": {
+      "description": "Choose your image"
+    },
+    "moreThanDay": "> 1 day",
+    "@moreThanDay": {
+      "description": "Choose your image"
+    },
+    "decryptImage": "Decrypting Image",
+    "@decryptImage": {
+      "description": "Choose your image"
+    },
+    "iCantVerify": "I can't verify the Account",
+    "@iCantVerify": {
+      "description": "Choose your image"
+    },
+    "areYouSure": "Are you sure?",
+    "@areYouSure": {
+      "description": "Choose your image"
+    },
+    "notDelete": "No Delete",
+    "@notDelete": {
+      "description": "Choose your image"
+    },
+    "delete": "Delete",
+    "@delete": {
+      "description": "Choose your image"
+    },
+    "sureToDelete": "Your contact will disappear from your circle 👨🏻‍💻",
+    "@sureToDelete": {
+      "description": "Choose your image"
+    },
+    "termsTitle": "Terms & Conditions",
+    "@termsTitle": {
+      "description": "Choose your image"
+    }
+    
+    
+    
+    
+    
+  
+  
+
+
+
+
+
+
+    
+    
+    
+
+    
+
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+
+    
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+    
+
+    
+
+
+
+}
